@@ -33,6 +33,7 @@ Enter waypoints when prompted (e.g. `5 5`), type `done` when finished.
 - matplotlib
 
 ## Future Improvements
+- obstacle avoidance
 - PID controller
 - Animated trajectory
 - Noise simulation
